@@ -1,0 +1,4 @@
+# Copy this file to local.properties and set your Android SDK path.
+# This project does NOT hard-code any AI API key anywhere — the key is entered
+# in-app under Settings and stored in EncryptedSharedPreferences on-device.
+sdk.dir=/path/to/your/Android/sdk

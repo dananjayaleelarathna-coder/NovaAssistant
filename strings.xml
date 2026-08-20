@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nova Assistant</string>
+    <string name="accessibility_service_description">Nova uses Accessibility only when you ask it to perform on-screen actions like going home, going back, opening recent apps, or taking a screenshot. It does not read your screen content in the background.</string>
+</resources>
